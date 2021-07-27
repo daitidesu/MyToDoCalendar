@@ -1,0 +1,2 @@
+rootProject.name = "MyToDoCalendar"
+include ':app'
